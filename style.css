@@ -1,0 +1,15 @@
+.wrapper {
+
+}
+.card {
+    box-sizing: border-box;
+    max-width: 600px;
+    padding: 30px 60px;
+    margin-bottom: 30px;
+    border: 1px solid black;
+    background-color: #f2f3f5;
+}
+.card_image {
+    max-width: 300px;
+    max-height: 300px;
+}
